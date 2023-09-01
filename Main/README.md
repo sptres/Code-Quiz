@@ -1,0 +1,2 @@
+# Code-Quiz
+- The Code Quiz will test user's basic knowledge on coding. Users are given time limit of 50 seconds to finish 5 coding-related questions. Each incorrect answer will deduct 10 seconds from the time limit. 
